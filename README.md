@@ -4,12 +4,12 @@ This repository contains my completed projects and SQL/Bash scripts for the **Re
 
 ## 📁 Projects Included
 
-* **[Celestial Bodies Database](./celestial-bodies)**
+* **[Celestial Bodies Database]**
   A PostgreSQL database modeling astronomical data about galaxies, stars, planets, and moons using foreign keys and constraints.
   
-* **[World Cup Database](./worldcup-database)**
+* **[World Cup Database]**
   A pair of Bash scripts that parse historical World Cup match data from CSV into PostgreSQL and run analytical SQL queries.
 
-* **[Salon Appointment Scheduler](./salon-appointment-scheduler)**
+* **[Salon Appointment Scheduler]**
   An interactive Bash shell script connected to PostgreSQL for managing customers, services, and appointment bookings.
 
