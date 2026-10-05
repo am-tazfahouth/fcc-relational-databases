@@ -13,3 +13,5 @@ This repository contains my completed projects and SQL/Bash scripts for the **Re
 * **[Salon Appointment Scheduler]**
   An interactive Bash shell script connected to PostgreSQL for managing customers, services, and appointment bookings.
 
+* **[Periodic Table Database]**  
+  A script querying atomic properties, elements, and types from a PostgreSQL database based on atomic number, symbol, or name input.
